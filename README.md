@@ -167,6 +167,10 @@ users and settings across updates. When upgrading from an older version that sto
 database at `/app/users.db`, it is moved into the data directory automatically on first
 start, so existing accounts are preserved.
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Statainer/)
+
 ## Configuration
 
 ### Core Environment Variables
